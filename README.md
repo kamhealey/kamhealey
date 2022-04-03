@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelly.
 - 👀 I’m interested in Python at the moment. I do want to learn at least surface level knowledge of other coding/programming
-- 🌱 I’m currently learning ...
+- 🌱 We're currently practicing JavaScript and Bootstrap 4.
 - 💞️ Any help is greatly appreciated
 - 📫 How to reach me: kamhealey@gmail.com
 
